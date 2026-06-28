@@ -1,46 +1,67 @@
-# 👋 Hello, I'm Salman Alsabahi | سلمان الصباحي
+<div align="center">
 
-## 🚀 About Me | نبذة عني
-Full Stack Developer passionate about building modern web applications, automation systems, and integrating Artificial Intelligence into real-world solutions.
+# 👋 Salman Al-Sabahi · سلمان الصباحي
 
-مطور ويب متكامل مهتم ببناء تطبيقات حديثة وأتمتة الأنظمة ودمج الذكاء الاصطناعي في الحلول العملية.
+### Full-Stack Developer · UI/UX Designer · AI Automation Expert
 
----
+![Open to Freelance](https://img.shields.io/badge/🌐_Open_to_Freelance-blue?style=flat-square)
+![Available](https://img.shields.io/badge/✅_Available_for_Projects-green?style=flat-square)
+![AI](https://img.shields.io/badge/🤖_AI_Integration-purple?style=flat-square)
 
-## 💻 Skills | المهارات
-- 🌐 Frontend Development (HTML, CSS, JavaScript, React)
-- ⚙️ Backend Development (Node.js, PHP, APIs)
-- 🤖 AI & Automation Integration
-- 📱 Mobile App Development (Flutter basics)
-- 🗄️ Databases (MySQL, MongoDB)
-- 🔧 Git & GitHub
+*Building modern web apps, automation systems, and AI-powered solutions from Yemen 🇾🇪*
+
+</div>
 
 ---
 
-## 🧠 Currently Learning | أتعلم حالياً
-- Advanced AI Engineering
-- System Design & Architecture
-- Cloud & Deployment (Docker, AWS basics)
+## 🚀 Tech Stack
+
+```
+Frontend   →  React / Next.js · TypeScript · Tailwind CSS · Flutter
+Backend    →  Node.js / Express · Firebase · MySQL · MongoDB
+AI & Auto  →  Gemini API · n8n · OpenAI · LangChain
+Tools      →  Git · Docker · Vite · Prisma ORM
+```
 
 ---
 
-## 📂 Projects | المشاريع
-- 🔹 Smart Automation Systems
-- 🔹 AI Chatbot Integration
-- 🔹 Web Dashboard Applications
+## 📂 Featured Projects
+
+### 🛍️ Amory Store · عموري ستور
+E-commerce platform for watches & perfumes targeting the Yemeni market.  
+`React 19` `TypeScript` `Firebase` `Vite` `Tailwind CSS`  
+🔗 [amoriyemen.com](https://amoriyemen.com)
+
+### 🏢 Imtiaz Sky · الامتياز سكاي
+Enterprise ERP/CRM platform with AI Agent integration — web admin panel + Flutter mobile app.  
+`Next.js` `Prisma` `Flutter` `AI Agent` `MySQL`
+
+### 🤖 AI Automation Workflows
+End-to-end automation pipelines using n8n, Gemini API, and Telegram bots.  
+`n8n` `Gemini API` `Telegram Bot` `Webhooks`
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanalsabahi&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalsabahi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contact Me | تواصل معي
-- Email: salmanalsabahi775@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/salman-al-sabahi-6b71a937a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- GitHub:   https://github.com/salmanalsabahi
-  facebook:https://www.facebook.com/profile.php?id=100042553483940
----phone Numbeer:774974712
+## 📫 Contact
 
-⭐ Always learning, always building | دائماً أتعلم وأبني
+| | |
+|---|---|774974712
+| 📧 Email | salmanalsabahi775@gmail.com |
+| 💼 LinkedIn | [salman-al-sabahi](https://www.linkedin.com/in/salman-al-sabahi-6b71a937a) |
+| 🌐 Portfolio | [salmanprofile.gobrandmarketing.com](https://salmanprofile.gobrandmarketing.com/) |
+| 📘 Facebook | [Profile](https://www.facebook.com/profile.php?id=100042553483940) |
+
+---
+
+<div align="center">
+
+⚡ *Always learning, always building · دائماً أتعلم وأبني*
+
+</div>
