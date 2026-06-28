@@ -37,10 +37,10 @@ Full Stack Developer passionate about building modern web applications, automati
 ---
 
 ## 📫 Contact Me | تواصل معي
-- Email: your-email@example.com  
-- LinkedIn: your-link  
-- GitHub: https://github.com/YOUR_USERNAME  
-
----
+- Email: salmanalsabahi775@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/salman-al-sabahi-6b71a937a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub:   https://github.com/salmanalsabahi
+  facebook:https://www.facebook.com/profile.php?id=100042553483940
+---phone Numbeer:774974712
 
 ⭐ Always learning, always building | دائماً أتعلم وأبني
